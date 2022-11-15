@@ -32,6 +32,7 @@ If applicable, add screenshots to help explain your problem.
  - Device: [e.g. iPhone6]
  - OS: [e.g. iOS8.1]
  - Browser [e.g. stock browser, safari]
+![Screenshot 2022-11-15 9 43 42 AM](https://user-images.githubusercontent.com/117926710/201962736-3c34a1f4-b290-4fb8-89df-f1a855503970.png)
  - Version [e.g. 22]
 
 **Additional context**
